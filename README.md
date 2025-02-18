@@ -65,4 +65,5 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
+| [1205-defanging-an-ip-address](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
