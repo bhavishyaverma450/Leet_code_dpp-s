@@ -8,6 +8,7 @@
 | [1580-shuffle-the-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2048-build-array-from-permutation) |
@@ -66,4 +67,5 @@
 | ------- |
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
 | [1205-defanging-an-ip-address](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1651-shuffle-string) |
 <!---LeetCode Topics End-->
