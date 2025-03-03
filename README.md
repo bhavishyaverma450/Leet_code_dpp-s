@@ -13,6 +13,7 @@
 | [1791-richest-customer-wealth](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
@@ -40,6 +42,7 @@
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2551-apply-operations-to-an-array) |
 ## Prefix Sum
 |  |
