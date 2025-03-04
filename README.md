@@ -63,6 +63,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0069-sqrtx) |
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Counting
 |  |
 | ------- |
