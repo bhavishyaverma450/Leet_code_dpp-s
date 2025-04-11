@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0136-single-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0540-single-element-in-a-sorted-array) |
 | [1580-shuffle-the-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1603-running-sum-of-1d-array) |
@@ -25,6 +26,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0136-single-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Brainteaser
