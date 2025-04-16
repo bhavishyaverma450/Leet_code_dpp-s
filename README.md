@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0136-single-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0540-single-element-in-a-sorted-array) |
@@ -64,6 +65,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0041-first-missing-positive) |
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
