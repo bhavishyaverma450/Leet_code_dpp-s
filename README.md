@@ -42,6 +42,7 @@
 | [0088-merge-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -122,6 +123,7 @@
 | [0141-linked-list-cycle](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Interactive
@@ -132,4 +134,9 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
