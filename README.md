@@ -15,6 +15,7 @@
 | [0792-binary-search](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0816-design-hashset) |
 | [1580-shuffle-the-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1580-shuffle-the-array) |
+| [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1651-shuffle-string) |
@@ -131,6 +132,7 @@
 | [0816-design-hashset](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
 ## Interactive
 |  |
 | ------- |
@@ -144,12 +146,22 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
+| [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0816-design-hashset) |
+| [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0816-design-hashset) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
