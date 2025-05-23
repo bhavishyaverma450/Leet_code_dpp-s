@@ -20,6 +20,7 @@
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1677-matrix-diagonal-sum) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2058-concatenation-of-array) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0088-merge-sorted-array) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Simulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0792-binary-search) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## String
 |  |
 | ------- |
