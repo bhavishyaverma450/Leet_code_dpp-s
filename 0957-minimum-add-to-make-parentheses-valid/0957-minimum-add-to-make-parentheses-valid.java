@@ -14,6 +14,6 @@ class Solution {
                 }
             }
         }
-        return min+openBrackets;
+        return openBrackets+min;
     }
 }
