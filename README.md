@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0069-sqrtx) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
 ## Stack
