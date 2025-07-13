@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0146-lru-cache) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0069-sqrtx) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -133,6 +135,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
