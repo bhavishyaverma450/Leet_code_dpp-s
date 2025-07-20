@@ -6,7 +6,9 @@ class Solution {
                 k++;
             }
         }
-        if(k>1) return false;
+        if(k>1){
+            return false;
+        }
         return true;
     }
 }
