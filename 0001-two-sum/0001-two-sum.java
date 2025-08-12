@@ -4,8 +4,7 @@ class Solution {
         while(i<nums.length-1){
             int j=i+1;
             while(j<nums.length){
-                int sum=nums[i]+nums[j];
-                if(sum==target){
+                if(nums[j]==target-nums[i]){
                     return new int[]{i,j};
                 }
                 j++;
