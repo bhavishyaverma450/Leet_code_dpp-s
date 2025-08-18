@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0088-merge-sorted-array) |
@@ -100,6 +101,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 | [1677-matrix-diagonal-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1677-matrix-diagonal-sum) |
@@ -128,6 +130,7 @@
 | [0007-reverse-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0189-rotate-array) |
