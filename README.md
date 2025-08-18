@@ -13,6 +13,7 @@
 | [0041-first-missing-positive](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0189-rotate-array) |
@@ -107,6 +108,7 @@
 | [0001-two-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0160-intersection-of-two-linked-lists) |
@@ -166,6 +168,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0128-longest-consecutive-sequence) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
