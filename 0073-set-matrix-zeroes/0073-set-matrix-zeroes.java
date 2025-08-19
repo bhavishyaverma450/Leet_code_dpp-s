@@ -5,7 +5,7 @@ class Solution {
 
         boolean zeroInFirstCol =false;
         for(int i=0;i<n;i++){
-            if(matrix[i][0] == 0) zeroInFirstCol=true;
+            if(matrix[i][0]==0) zeroInFirstCol=true;
             for(int j=1;j<m;j++){
                 if(matrix[i][j]==0){
                     matrix[i][0]=0;
