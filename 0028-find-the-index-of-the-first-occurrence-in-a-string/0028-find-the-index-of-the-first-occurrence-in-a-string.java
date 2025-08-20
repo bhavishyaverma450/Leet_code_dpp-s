@@ -1,11 +1,11 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        int ans=-1;
+        int index=-1;
         if(!haystack.contains(needle)){
-            return ans;
+            index=-1;
         }else{
-            ans = haystack.indexOf(needle);
+            index = haystack.indexOf(needle);
         }
-        return ans;
+        return index;
     }
 }
