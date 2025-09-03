@@ -19,6 +19,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0217-contains-duplicate) |
@@ -157,6 +158,7 @@
 | [0035-search-insert-position](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0745-find-smallest-letter-greater-than-target) |
