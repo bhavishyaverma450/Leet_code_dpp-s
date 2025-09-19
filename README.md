@@ -26,6 +26,7 @@
 | [0283-move-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
@@ -225,6 +226,7 @@
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1078-remove-outermost-parentheses) |
 | [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
@@ -267,6 +269,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0503-next-greater-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
