@@ -224,6 +224,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0503-next-greater-element-ii) |
@@ -260,6 +261,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -290,4 +292,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
