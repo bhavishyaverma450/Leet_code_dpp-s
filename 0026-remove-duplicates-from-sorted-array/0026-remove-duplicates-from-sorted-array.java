@@ -5,7 +5,7 @@ class Solution {
             if(i<nums.length-1 && nums[i]==nums[i+1]){
                 continue;
             }else{
-                nums[count] = nums[i];
+                nums[count]=nums[i];
                 count++;
             }
         }
