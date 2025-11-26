@@ -6,6 +6,6 @@ class Solution {
             if(ch=='(' && opened++>0) sb.append(ch);
             if(ch==')' && opened-->1) sb.append(ch);
         }
-        return sb.toString();
+        return sb.toString().trim();
     }
 }
