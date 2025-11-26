@@ -144,6 +144,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1903-largest-odd-number-in-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1903-largest-odd-number-in-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1903-largest-odd-number-in-string) |
 | [2389-design-a-text-editor](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2389-design-a-text-editor) |
 ## Union Find
 |  |
@@ -260,6 +262,7 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1903-largest-odd-number-in-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1903-largest-odd-number-in-string) |
 ## Depth-First Search
 |  |
 | ------- |
