@@ -6,11 +6,10 @@ class Solution {
 
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                int num=grid[i][j];
-                if(map.containsKey(num)){
-                    arr[0]=num;
+                if(map.containsKey(grid[i][j])){
+                    arr[0]=grid[i][j];
                 }
-                map.put(num,map.getOrDefault(num,0)+1);
+                map.put(grid[i][j],map.getOrDefault(grid[i][j],0)+1);
             }
         }
         n=n*n;
