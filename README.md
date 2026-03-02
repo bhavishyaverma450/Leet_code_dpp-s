@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -24,6 +24,7 @@
 | [0189-rotate-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0503-next-greater-element-ii) |
@@ -51,19 +52,19 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0645-set-mismatch) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0031-next-permutation) |
@@ -77,24 +78,26 @@
 | [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
 | [0645-set-mismatch](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0645-set-mismatch) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2048-build-array-from-permutation](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -102,20 +105,20 @@
 | [2389-design-a-text-editor](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2389-design-a-text-editor) |
 | [2551-apply-operations-to-an-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2551-apply-operations-to-an-array) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 | [1677-matrix-diagonal-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0041-first-missing-positive) |
@@ -133,8 +136,8 @@
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0007-reverse-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0013-roman-to-integer) |
@@ -147,15 +150,15 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0035-search-insert-position) |
@@ -168,8 +171,8 @@
 | [0792-binary-search](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0792-binary-search) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0020-valid-parentheses) |
@@ -189,17 +192,17 @@
 | [1903-largest-odd-number-in-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1903-largest-odd-number-in-string) |
 | [2389-design-a-text-editor](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2389-design-a-text-editor) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0128-longest-consecutive-sequence) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -215,19 +218,19 @@
 | [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
 | [2389-design-a-text-editor](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2389-design-a-text-editor) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0374-guess-number-higher-or-lower) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0155-min-stack) |
@@ -241,72 +244,73 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2389-design-a-text-editor](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2389-design-a-text-editor) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0155-min-stack) |
 | [0816-design-hashset](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0816-design-hashset) |
 | [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
 | [2389-design-a-text-editor](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2389-design-a-text-editor) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0816-design-hashset](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0816-design-hashset) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
 | [2389-design-a-text-editor](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2389-design-a-text-editor) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1903-largest-odd-number-in-string) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0503-next-greater-element-ii) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0169-majority-element) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0014-longest-common-prefix) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
