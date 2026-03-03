@@ -34,6 +34,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0816-design-hashset) |
+| [0994-rotting-oranges](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0994-rotting-oranges/) | Medium |
 | [1580-shuffle-the-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1603-running-sum-of-1d-array) |
@@ -116,6 +117,7 @@
 | [0048-rotate-image](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0994-rotting-oranges/) | Medium |
 | [1677-matrix-diagonal-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -283,6 +285,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0994-rotting-oranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
