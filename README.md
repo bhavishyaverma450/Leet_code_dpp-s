@@ -93,6 +93,7 @@
 | [0088-merge-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
 | [0645-set-mismatch](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0645-set-mismatch) |
@@ -133,6 +134,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0645-set-mismatch) |
@@ -182,6 +184,7 @@
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0742-to-lower-case) |
