@@ -18,9 +18,7 @@ class Solution {
                     left++;right--;
                 }else if(sum>0){
                     right--;
-                }else{
-                    left++;
-                }
+                }else left++;
             }
         }
         return list;
