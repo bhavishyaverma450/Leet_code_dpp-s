@@ -6,18 +6,10 @@ class Solution {
 
         while(left<right){
             int length=right-left;
-            int h1=height[left];
-            int h2=height[right];
-            if(h1<h2){
-                area=Math.max(area,h1*length);
-                left++;
-            }else if(h1>h2){
-                area=Math.max(area,h2*length);
-                right--;
-            }else{
-                area=Math.max(area,h1*length);
-                left++;
-            }
+            int h=Math.min(height[left],height[right]);
+            area=Math.max(area,h*length);
+            if(height[left]<height[right])left++;
+            else right--;
         }
         return area;
     }
