@@ -16,7 +16,7 @@ class Solution {
                 right--;
             }else{
                 area=Math.max(area,h1*length);
-                left++;right--;
+                left++;
             }
         }
         return area;
