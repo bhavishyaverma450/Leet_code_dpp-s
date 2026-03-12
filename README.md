@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -71,6 +72,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -287,6 +289,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1710-maximum-units-on-a-truck/) | Easy |
