@@ -255,6 +255,7 @@
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
@@ -300,6 +301,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -336,9 +338,11 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
