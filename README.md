@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0283-move-zeroes) |
+| [0454-4sum-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
@@ -151,6 +152,7 @@
 | [0217-contains-duplicate](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
+| [0454-4sum-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0816-design-hashset) |
