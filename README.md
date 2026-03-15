@@ -305,6 +305,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -347,6 +348,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -356,6 +358,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
