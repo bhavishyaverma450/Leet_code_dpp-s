@@ -24,8 +24,8 @@ class Solution {
             for(int i=0;i<n;i++){
                 TreeNode curr=q.poll();
                 if(curr.left==null && curr.right==null)return depth;
-                if(curr.left==null)q.add(curr.right);
-                if(curr.right==null)q.add(curr.left);
+                if(curr.left!=null)q.add(curr.left);
+                if(curr.right!=null)q.add(curr.right);
             }
             depth++;
         }
