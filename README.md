@@ -374,4 +374,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0113-path-sum-ii/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
