@@ -6,7 +6,7 @@ class Solution {
         int i=0;
         for(int j=0;j<s.length();j++){
             count[s.charAt(j)-'A']++;
-            maxCount=Math.max(maxCount,j-i+1);
+            maxCount=Math.max(maxCount,count[s.charAt(j)-'A']);
             while((j-i+1)-maxCount>k){
                 count[s.charAt(i)-'A']--;
                 i++;
