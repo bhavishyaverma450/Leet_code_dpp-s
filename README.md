@@ -151,6 +151,7 @@
 | [0169-majority-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
@@ -205,6 +206,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0742-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -382,4 +384,8 @@
 | [1068-product-sales-analysis-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
