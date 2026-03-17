@@ -50,6 +50,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1677-matrix-diagonal-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1791-richest-customer-wealth](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2048-build-array-from-permutation) |
