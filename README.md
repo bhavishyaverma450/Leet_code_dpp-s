@@ -393,6 +393,7 @@
 | [1280-students-and-examinations](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1280-students-and-examinations/) | Easy |
 | [1683-invalid-tweets](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1934-confirmation-rate](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1934-confirmation-rate/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
