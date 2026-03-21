@@ -1,28 +1,27 @@
-class Solution{
-    public String longestPalindrome(String s){
-        if(s==null || s.length()<2) return s;
+class Solution {
+    public String longestPalindrome(String s) {
+        int n=s.length();
+        if(n<=1)return s;
 
-        int maxLeft=0;
-        int maxRight=0;
-        for(int i=0;i<s.length();i++){
-            int[] odd = expandFromCenter(s,i,i);
-            if(odd[1]-odd[0]>maxRight-maxLeft){
-                maxLeft=odd[0];
-                maxRight=odd[1];
-            }
-            int[] even = expandFromCenter(s,i,i+1);
-            if(even[1]-even[0]>maxRight-maxLeft){
-                maxLeft=even[0];
-                maxRight = even[1];
+        int maxLen=1;
+        String maxStr=s.substring(0,1);
+        for(int i=0;i<n;i++){
+            for(int j=i+maxLen;j<n;j++){
+                if(j-i+1>maxLen && isPalin(s.substring(i,j+1))){
+                    maxLen=j-i+1;
+                    maxStr=s.substring(i,j+1);
+                }
             }
         }
-        return s.substring(maxLeft,maxRight+1);
+        return maxStr;
     }
-    public int[] expandFromCenter(String s,int left,int right){
-        while(left>=0 && right<s.length() && (s.charAt(left)==s.charAt(right))){
-            left--;
-            right++;
+    public boolean isPalin(String s){
+        int i=0;
+        int j=s.length()-1;
+        while(i<=j){
+            if(s.charAt(i)!=s.charAt(j))return false;
+            i++;j--;
         }
-        return new int[]{left+1,right-1};
+        return true;
     }
 }
