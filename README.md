@@ -78,6 +78,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0018-4sum/) | Medium |
@@ -204,6 +205,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0020-valid-parentheses) |
@@ -402,6 +404,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
