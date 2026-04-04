@@ -159,6 +159,7 @@
 | [0146-lru-cache](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0299-bulls-and-cows/) | Medium |
@@ -218,6 +219,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0299-bulls-and-cows/) | Medium |
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
