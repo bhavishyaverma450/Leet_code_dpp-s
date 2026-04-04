@@ -1,29 +1,20 @@
 class Solution {
-    public int findMax(int[] arr){
-        int max=Integer.MIN_VALUE;
-        int maxi =-1;
-        for(int i=0;i<256;i++){
-            if(arr[i]>max){
-                max=arr[i];
-                maxi=i;
-            }
-        }
-        return maxi;
-    }
     public String frequencySort(String s) {
-        int[] freq = new int[256];
-        for(int i=0;i<s.length();i++){
-            freq[s.charAt(i)]++;
+        HashMap<Character,Integer> map=new HashMap<>();
+        for(char ch:s.toCharArray()){
+            map.put(ch,map.getOrDefault(ch,0)+1);
         }
-        int i=0;
-        char[] res = new char[s.length()];
-        while(i<s.length()){
-            int maxi = findMax(freq);
-            while(freq[maxi]>0){
-                res[i++]=(char)maxi;
-                freq[maxi]--;
-            }
+
+        PriorityQueue<Map.Entry<Character,Integer>> pq=new PriorityQueue<>(
+            (a,b) -> b.getValue()-a.getValue()
+        );
+        pq.addAll(map.entrySet());
+
+        StringBuilder res=new StringBuilder();
+        while(!pq.isEmpty()){
+            Map.Entry<Character,Integer> entry=pq.poll();
+            res.append(String.valueOf(entry.getKey()).repeat(entry.getValue()));
         }
-        return new String(res);
+        return res.toString();
     }
 }
