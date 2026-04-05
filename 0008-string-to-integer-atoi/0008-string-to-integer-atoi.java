@@ -4,24 +4,19 @@ class Solution {
         while(i<s.length() && s.charAt(i)==' '){
             i++;
         }
-
-        boolean negative = false;
-        if(i<s.length() && (s.charAt(i)=='+' || s.charAt(i)=='-')){
-            negative = (s.charAt(i)=='-');
-            i++; 
-        }
-
-        int res=0;
-        while(i<s.length() && Character.isDigit(s.charAt(i))){
-            int digit = s.charAt(i)-'0';
-
-            if(res>(Integer.MAX_VALUE-digit)/10){
-                return negative? Integer.MIN_VALUE: Integer.MAX_VALUE;
-            }
-
-            res = res*10 + digit;
+        int neg=1;
+        if(i<s.length() && (s.charAt(i)=='-' || s.charAt(i)=='+')){
+            if(s.charAt(i)=='-')neg=-1;
             i++;
         }
-        return negative?-res:res;
+        long res=0;
+        while(i<s.length() && Character.isDigit(s.charAt(i))){
+            int digit=s.charAt(i)-'0';
+            res=(res*10)+digit;
+            if(neg*res>Integer.MAX_VALUE)return Integer.MAX_VALUE;
+            if(neg*res<Integer.MIN_VALUE)return Integer.MIN_VALUE;
+            i++;
+        }
+        return (int)(neg*res);
     }
 }
