@@ -4,13 +4,9 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             int sum=0;
             for(int j=i;j<nums.length;j++){
-                sum += nums[j];
-                if(sum==goal){
-                    count++;
-                }
-                if(sum>goal){
-                    break;
-                }
+                sum+=nums[j];
+                if(sum==goal)count++;
+                else if(sum>goal)break;
             }
         }
         return count;
