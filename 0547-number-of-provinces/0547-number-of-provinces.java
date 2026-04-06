@@ -1,9 +1,9 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
+        int n=isConnected.length;
+        List<List<Integer>> adj=convert(isConnected);
         int count=0;
-        ArrayList<ArrayList<Integer>> adj=convert(isConnected);
-
-        boolean[] vis=new boolean[adj.size()];
+        boolean[] vis=new boolean[n];
         Arrays.fill(vis,false);
 
         for(int i=0;i<adj.size();i++){
@@ -14,10 +14,18 @@ class Solution {
         }
         return count;
     }
-    public ArrayList<ArrayList<Integer>> convert(int[][] arr){
+    public void dfs(int node,List<List<Integer>> adj,boolean[] vis){
+        vis[node]=true;
+        for(int t:adj.get(node)){
+            if(!vis[t]){
+                vis[t]=true;
+                dfs(t,adj,vis);
+            }
+        }
+    }
+    public List<List<Integer>> convert(int[][] arr){
         int n=arr.length;
-        ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
-
+        List<List<Integer>> adj=new ArrayList<>();
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
@@ -29,14 +37,5 @@ class Solution {
             }
         }
         return adj;
-    }
-    public void dfs(int node,ArrayList<ArrayList<Integer>> adj,boolean[] vis){
-        vis[node]=true;
-        for(int it:adj.get(node)){
-            if(!vis[it]){
-                vis[it]=true;
-                dfs(it,adj,vis);
-            }
-        }
     }
 }
