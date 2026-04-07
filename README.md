@@ -100,6 +100,7 @@
 | [0283-move-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0908-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -265,6 +266,7 @@
 | [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0328-odd-even-linked-list) |
 | [0816-design-hashset](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0816-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
