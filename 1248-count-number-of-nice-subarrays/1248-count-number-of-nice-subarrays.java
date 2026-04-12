@@ -7,13 +7,12 @@ class Solution {
         return check(nums,k)-check(nums,k-1);
     }
     public int check(int[] nums,int k){
-        if(k<0)return 0;
-        int left=0;
         int ans=0,sum=0;
+        int left=0;
         for(int right=0;right<nums.length;right++){
             sum+=nums[right];
             while(sum>k && left<nums.length){
-                sum-=nums[left++];
+                sum-=nums[left];left++;
             }
             ans+=(right-left+1);
         }
