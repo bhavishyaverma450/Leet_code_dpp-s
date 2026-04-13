@@ -47,6 +47,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0994-rotting-oranges/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1580-shuffle-the-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1603-running-sum-of-1d-array) |
@@ -139,6 +140,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1603-running-sum-of-1d-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -442,6 +444,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
