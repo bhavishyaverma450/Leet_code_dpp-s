@@ -177,6 +177,7 @@
 | [0816-design-hashset](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0816-design-hashset) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -240,6 +241,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1205-defanging-an-ip-address) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1651-shuffle-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1797-goal-parser-interpretation) |
@@ -439,6 +441,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
