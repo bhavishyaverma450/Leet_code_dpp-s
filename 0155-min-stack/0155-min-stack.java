@@ -14,15 +14,15 @@ class MinStack {
         if(head==null){
             head=new Node(val,val);
         }else{
-            Node temp=new Node(val,Math.min(val,head.min));
-            temp.next=head;
-            head=temp;
+            Node curr=new Node(val,Math.min(val,head.min));
+            curr.next=head;
+            head=curr;
         }
     }
     
     public void pop() {
         if(head==null){
-            System.out.println("Stack is empty");
+            System.out.println("Min Stack is Empty.");
             return;
         }
         head=head.next;
@@ -30,7 +30,7 @@ class MinStack {
     
     public int top() {
         if(head==null){
-            System.out.println("Stack is empty");
+            System.out.println("Min Stack is Empty.");
             return -1;
         }
         return head.data;
@@ -38,7 +38,7 @@ class MinStack {
     
     public int getMin() {
         if(head==null){
-            System.out.println("Stack is empty");
+            System.out.println("Min Stack is Empty.");
             return -1;
         }
         return head.min;
