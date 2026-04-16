@@ -12,7 +12,6 @@ class Solution {
         for(String s:wordList){
             set.add(s);
         }
-
         Queue<Pair> q=new LinkedList<>();
         q.add(new Pair(beginWord,1));
         set.remove(beginWord);
@@ -24,10 +23,10 @@ class Solution {
             if(word.equals(endWord))return steps;
             
             for(int i=0;i<word.length();i++){
-                char[] wordArray = word.toCharArray();
+                char[] replacedArray=word.toCharArray();
                 for(char ch='a';ch<='z';ch++){
-                    wordArray[i]=ch;
-                    String str=new String(wordArray);
+                    replacedArray[i]=ch;
+                    String str=new String(replacedArray);
                     if(set.contains(str)){
                         q.add(new Pair(str,steps+1));
                         set.remove(str);
