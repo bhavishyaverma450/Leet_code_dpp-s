@@ -161,6 +161,7 @@
 | [0041-first-missing-positive](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -231,6 +232,7 @@
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0049-group-anagrams/) | Medium |
+| [0127-word-ladder](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0242-valid-anagram/) | Easy |
@@ -357,6 +359,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0547-number-of-provinces](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0547-number-of-provinces/) | Medium |
