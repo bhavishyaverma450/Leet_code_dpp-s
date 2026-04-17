@@ -186,6 +186,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0013-roman-to-integer) |
@@ -264,6 +265,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -287,6 +289,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0206-reverse-linked-list) |
