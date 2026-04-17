@@ -11,20 +11,20 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        ListNode currA=headA;
-        ListNode currB=headB;
-        while(currA!=currB){
-            if(currA==null){
-                currA=headB;
+        ListNode tA=headA;
+        ListNode tB=headB;
+        while(tA!=tB){
+            if(tA==null){
+                tA=headB;
             }else{
-                currA=currA.next;
+                tA=tA.next;
             }
-            if(currB==null){
-                currB=headA;
+            if(tB==null){
+                tB=headA;
             }else{
-                currB=currB.next;
+                tB=tB.next;
             }
         }
-        return currA==currB?currA:null;
+        return tA==tB?tA:null;
     }
 }
