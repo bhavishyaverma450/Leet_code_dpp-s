@@ -10,14 +10,20 @@ class Solution {
         }
         if(firstIndex==-1)reverse(nums,0,nums.length-1);
         else{
-            for(int i=nums.length-1;i>=firstIndex;i--){
-                if(nums[i]>nums[i-1]){
+            for(int i=nums.length-1;i>=0;i--){
+                if(nums[i]>nums[firstIndex]){
                     secondIndex=i;
                     break;
                 }
             }
-            reverse(nums,firstIndex,secondIndex);
+            swap(nums,firstIndex,secondIndex);
+            reverse(nums,firstIndex+1,nums.length-1);
         }
+    }
+    public void swap(int[] nums,int i,int j){
+        int temp=nums[i];
+        nums[i]=nums[j];
+        nums[j]=temp;
     }
     public void reverse(int[] nums,int i,int j){
         while(i<=j){
