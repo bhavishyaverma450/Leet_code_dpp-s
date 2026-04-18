@@ -198,6 +198,7 @@
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1903-largest-odd-number-in-string) |
+| [3783-mirror-distance-of-an-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
