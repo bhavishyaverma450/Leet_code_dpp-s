@@ -1,20 +1,20 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int n = matrix.length;
-        int m = matrix[0].length;
+        int m=matrix.length;
+        int n=matrix[0].length;
 
-        boolean zeroInFirstCol =false;
-        for(int i=0;i<n;i++){
-            if(matrix[i][0]==0) zeroInFirstCol=true;
-            for(int j=1;j<m;j++){
+        boolean zeroInFirstCol=false;
+        for(int i=0;i<m;i++){
+            if(matrix[i][0]==0)zeroInFirstCol=true;
+            for(int j=1;j<n;j++){
                 if(matrix[i][j]==0){
                     matrix[i][0]=0;
                     matrix[0][j]=0;
                 }
             }
         }
-        for(int i=n-1;i>=0;i--){
-            for(int j=m-1;j>=1;j--){
+        for(int i=m-1;i>=0;i--){
+            for(int j=n-1;j>=1 ;j--){
                 if(matrix[i][0]==0 || matrix[0][j]==0){
                     matrix[i][j]=0;
                 }
