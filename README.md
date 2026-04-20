@@ -39,6 +39,7 @@
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -139,6 +140,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1603-running-sum-of-1d-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1603-running-sum-of-1d-array) |
@@ -176,6 +178,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0816-design-hashset) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0930-binary-subarrays-with-sum/) | Medium |
