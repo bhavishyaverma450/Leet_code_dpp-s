@@ -18,6 +18,7 @@
 | [0048-rotate-image](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0088-merge-sorted-array) |
@@ -129,6 +130,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0054-spiral-matrix/) | Medium |
 | [2048-build-array-from-permutation](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2058-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -148,6 +150,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
