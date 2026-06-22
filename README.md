@@ -81,6 +81,7 @@
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -201,6 +202,7 @@
 | [0050-powx-n](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0189-rotate-array) |
+| [1227-airplane-seat-assignment-probability](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -466,6 +468,7 @@
 | [0053-maximum-subarray](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1227-airplane-seat-assignment-probability](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,4 +479,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0547-number-of-provinces/) | Medium |
+## Probability and Statistics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 <!---LeetCode Topics End-->
