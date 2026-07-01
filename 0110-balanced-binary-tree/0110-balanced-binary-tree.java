@@ -20,7 +20,7 @@ class Solution {
         return isBalanced(root.left)&&isBalanced(root.right);
     }
     public int height(TreeNode root){
-        if(root==null)return 0;
+        if(root==null)return 1;
         return 1+Math.max(height(root.left),height(root.right));
     }
 }
