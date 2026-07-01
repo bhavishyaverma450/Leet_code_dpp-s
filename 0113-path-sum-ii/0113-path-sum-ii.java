@@ -14,13 +14,13 @@
  * }
  */
 class Solution {
-    List<List<Integer>> ans=new LinkedList<>();
+    List<List<Integer>> ans=new ArrayList<>();
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        List<Integer> list=new LinkedList<>();
+        List<Integer> list=new ArrayList<>();
         dfs(root,targetSum,list);
         return ans;
     }
-    public void dfs(TreeNode root,int targetSum,List<Integer> list){
+    public void dfs(TreeNode root, int targetSum, List<Integer> list){
         if(root==null)return;
         list.add(root.val);
         if(targetSum==root.val && (root.left==null && root.right==null)){
