@@ -367,6 +367,7 @@
 | [0547-number-of-provinces](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +381,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0994-rotting-oranges/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,6 +422,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -434,6 +437,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
