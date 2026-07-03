@@ -363,6 +363,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -420,6 +421,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -435,6 +437,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
