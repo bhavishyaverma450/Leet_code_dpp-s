@@ -1,27 +1,34 @@
 class Solution {
     public int numIslands(char[][] grid) {
+        int count=0;
         int m=grid.length;
         int n=grid[0].length;
-        int count=0;
+
+        Queue<int[]> q=new LinkedList<>();
+        int[] dx={-1,0,1,0};
+        int[] dy={0,-1,0,1};
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]=='1'){
+                    q.add(new int[]{i,j});
+                    while(!q.isEmpty()){
+                        int[] curr=q.poll();
+                        int x=curr[0];
+                        int y=curr[1];
+                        for(int k=0;k<4;k++){
+                            int newX=x+dx[k];
+                            int newY=y+dy[k];
+                            if(newX>=0 && newX<m && newY>=0 && newY<n && grid[newX][newY]=='1'){
+                                grid[newX][newY]='0';
+                                q.add(new int[]{newX,newY});
+                            }
+                        }
+                    }
                     count++;
-                    dfs(grid,i,j);
                 }
             }
         }
-        return count;
-    }
-    public void dfs(char[][] grid,int i,int j){
-        int m=grid.length;
-        int n=grid[0].length;
-        if(i<0 || i>=m || j<0 || j>=n || grid[i][j]=='0')return;
-        grid[i][j]='0';
 
-        dfs(grid,i-1,j);
-        dfs(grid,i+1,j);
-        dfs(grid,i,j-1);
-        dfs(grid,i,j+1);
+        return count;
     }
 }
