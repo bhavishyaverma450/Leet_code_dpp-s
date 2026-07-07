@@ -44,6 +44,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0792-binary-search) |
@@ -157,6 +158,7 @@
 | [0073-set-matrix-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0994-rotting-oranges/) | Medium |
 | [1677-matrix-diagonal-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1677-matrix-diagonal-sum) |
@@ -370,6 +372,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -384,6 +387,7 @@
 | [0200-number-of-islands](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -493,6 +497,7 @@
 | [0130-surrounded-regions](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0695-max-area-of-island/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
