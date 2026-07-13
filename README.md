@@ -377,6 +377,7 @@
 | [0695-max-area-of-island](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +394,7 @@
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -500,11 +502,13 @@
 | [0200-number-of-islands](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0695-max-area-of-island/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0547-number-of-provinces/) | Medium |
 | [0997-find-the-town-judge](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0997-find-the-town-judge/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Probability and Statistics
 | Problem Name | Difficulty |
 | ------- | ------- |
