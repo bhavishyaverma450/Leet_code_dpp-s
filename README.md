@@ -376,6 +376,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0743-network-delay-time/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
@@ -392,6 +393,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -417,6 +419,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0743-network-delay-time/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -507,6 +510,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0743-network-delay-time/) | Medium |
 | [0997-find-the-town-judge](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0997-find-the-town-judge/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Probability and Statistics
@@ -517,4 +521,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
