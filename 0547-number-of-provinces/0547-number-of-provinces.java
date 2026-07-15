@@ -2,7 +2,7 @@ class Solution {
     class DSU{
         int[] parent;
         int[] size;
-        public DSU(int n){
+        DSU(int n){
             parent=new int[n];
             size=new int[n];
             for(int i=0;i<n;i++){
@@ -17,7 +17,7 @@ class Solution {
         public void union(int u,int v){
             int upu=find(u);
             int upv=find(v);
-            if(size[upu]>=size[upv]){
+            if(size[upu]>size[upv]){
                 parent[upv]=parent[upu];
                 size[upu]+=size[upv];
             }else{
@@ -27,17 +27,18 @@ class Solution {
         }
     }
     public int findCircleNum(int[][] isConnected) {
-        int n=isConnected.length;
-        int count=0;
-        DSU dsu = new DSU(n);
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
+        int m=isConnected.length;
+        DSU dsu=new DSU(m);
+
+        for(int i=0;i<m;i++){
+            for(int j=0;j<m;j++){
                 if(isConnected[i][j]==1)dsu.union(i,j);
             }
         }
+        int count=0;
         for(int i=0;i<dsu.parent.length;i++){
             if(dsu.parent[i]==i)count++;
-        }
+        }        
         return count;
     }
 }
