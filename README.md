@@ -40,6 +40,7 @@
 | [0454-4sum-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0540-single-element-in-a-sorted-array) |
@@ -464,6 +465,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0113-path-sum-ii/) | Medium |
+| [0494-target-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0494-target-sum/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,6 +501,7 @@
 | [0118-pascals-triangle](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0494-target-sum/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
