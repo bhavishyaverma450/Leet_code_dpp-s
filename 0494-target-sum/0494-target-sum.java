@@ -1,15 +1,14 @@
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
-        return solve(nums,nums.length-1,0,target);
+        return solve(nums.length-1,nums,0,target);
     }
-    public int solve(int[] nums,int i,int sum,int target){
-        if(i<0){
+    public int solve(int ind,int[] nums,int sum,int target){
+        if(ind<0){
             if(sum==target)return 1;
             return 0;
         }
-        int plus=solve(nums,i-1,sum+nums[i],target);
-        int minus=solve(nums,i-1,sum-nums[i],target);
-
-        return plus+minus;
+        int take=solve(ind-1,nums,sum+nums[ind],target);
+        int not_take=solve(ind-1,nums,sum-nums[ind],target);
+        return take+not_take;
     }
 }
