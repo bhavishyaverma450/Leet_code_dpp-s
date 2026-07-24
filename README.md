@@ -260,6 +260,7 @@
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0521-longest-uncommon-subsequence-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0742-to-lower-case](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0742-to-lower-case) |
@@ -506,6 +507,7 @@
 | [0322-coin-change](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 ## Union-Find
