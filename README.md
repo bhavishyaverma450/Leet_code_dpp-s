@@ -42,6 +42,7 @@
 | [0454-4sum-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0503-next-greater-element-ii) |
@@ -214,6 +215,7 @@
 | [0050-powx-n](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0486-predict-the-winner/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
@@ -319,6 +321,7 @@
 | [0050-powx-n](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0486-predict-the-winner/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -511,6 +514,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0322-coin-change](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0486-predict-the-winner](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -543,4 +547,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0743-network-delay-time/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
