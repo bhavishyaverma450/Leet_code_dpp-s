@@ -56,6 +56,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0997-find-the-town-judge/) | Easy |
+| [1046-last-stone-weight](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1046-last-stone-weight/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1580-shuffle-the-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
@@ -427,6 +428,7 @@
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0743-network-delay-time/) | Medium |
+| [1046-last-stone-weight](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
