@@ -21,6 +21,7 @@
 | [0054-spiral-matrix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0118-pascals-triangle/) | Easy |
@@ -167,6 +168,7 @@
 | [0054-spiral-matrix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0695-max-area-of-island/) | Medium |
@@ -241,6 +243,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
