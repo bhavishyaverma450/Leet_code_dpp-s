@@ -122,6 +122,7 @@
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
+| [0647-palindromic-substrings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0908-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -280,6 +281,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0521-longest-uncommon-subsequence-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0647-palindromic-substrings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0647-palindromic-substrings/) | Medium |
 | [0742-to-lower-case](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0742-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1021-remove-outermost-parentheses) |
@@ -536,6 +538,7 @@
 | [0494-target-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0647-palindromic-substrings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0647-palindromic-substrings/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
