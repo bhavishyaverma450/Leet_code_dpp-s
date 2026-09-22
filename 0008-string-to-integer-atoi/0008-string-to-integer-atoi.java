@@ -5,18 +5,20 @@ class Solution {
             i++;
         }
         int neg=1;
-        if(i<s.length() && (s.charAt(i)=='-' || s.charAt(i)=='+')){
-            if(s.charAt(i)=='-')neg=-1;
+        if(i<s.length() && (s.charAt(i)=='+'||s.charAt(i)=='-')){
+            if(s.charAt(i)=='-'){
+                neg=-1;
+            }
             i++;
         }
-        long res=0;
+        long ans=0;
         while(i<s.length() && Character.isDigit(s.charAt(i))){
             int digit=s.charAt(i)-'0';
-            res=(res*10)+digit;
-            if(neg*res>Integer.MAX_VALUE)return Integer.MAX_VALUE;
-            if(neg*res<Integer.MIN_VALUE)return Integer.MIN_VALUE;
+            ans=ans*10+digit;
+            if(neg*ans<Integer.MIN_VALUE)return Integer.MIN_VALUE;
+            if(neg*ans>Integer.MAX_VALUE)return Integer.MAX_VALUE;
             i++;
         }
-        return (int)(neg*res);
+        return (int)(neg*ans);
     }
 }
