@@ -569,4 +569,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0486-predict-the-winner/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
