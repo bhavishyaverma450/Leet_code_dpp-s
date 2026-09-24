@@ -63,6 +63,7 @@
 | [0994-rotting-oranges](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1046-last-stone-weight/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1580-shuffle-the-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
@@ -210,6 +211,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0997-find-the-town-judge](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0997-find-the-town-judge/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
