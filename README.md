@@ -157,6 +157,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2389-design-a-text-editor](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2389-design-a-text-editor) |
+| [2390-removing-stars-from-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2551-apply-operations-to-an-array](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2551-apply-operations-to-an-array) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -296,6 +297,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1903-largest-odd-number-in-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1903-largest-odd-number-in-string) |
 | [2389-design-a-text-editor](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2389-design-a-text-editor) |
+| [2390-removing-stars-from-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +358,7 @@
 | [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2389-design-a-text-editor](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2389-design-a-text-editor) |
+| [2390-removing-stars-from-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
