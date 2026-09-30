@@ -126,6 +126,7 @@
 | [0647-palindromic-substrings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2265-partition-array-according-to-given-pivot](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -326,6 +327,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1582-design-browser-history) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2389-design-a-text-editor](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/2389-design-a-text-editor) |
 ## Interactive
 | Problem Name | Difficulty |
