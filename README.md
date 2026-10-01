@@ -583,4 +583,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
