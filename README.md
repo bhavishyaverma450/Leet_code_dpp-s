@@ -269,6 +269,7 @@
 | [0013-roman-to-integer](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0058-length-of-last-word/) | Easy |
@@ -499,6 +500,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0022-generate-parentheses/) | Medium |
 | [0113-path-sum-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0113-path-sum-ii/) | Medium |
 | [0494-target-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0494-target-sum/) | Medium |
 ## Database
@@ -532,6 +534,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0063-unique-paths-ii/) | Medium |
@@ -587,4 +590,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
