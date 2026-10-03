@@ -271,6 +271,7 @@
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0125-valid-palindrome/) | Easy |
@@ -347,6 +348,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0144-binary-tree-preorder-traversal) |
@@ -535,6 +537,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0063-unique-paths-ii/) | Medium |
@@ -591,4 +594,5 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
