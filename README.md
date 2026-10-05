@@ -289,6 +289,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0647-palindromic-substrings/) | Medium |
 | [0742-to-lower-case](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0742-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0856-score-of-parentheses/) | Medium |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1078-remove-outermost-parentheses) |
@@ -357,6 +358,7 @@
 | [0234-palindrome-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0503-next-greater-element-ii) |
+| [0856-score-of-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0856-score-of-parentheses/) | Medium |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1078-remove-outermost-parentheses) |
@@ -595,4 +597,5 @@
 | [0020-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
