@@ -598,4 +598,12 @@
 | [0022-generate-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0856-score-of-parentheses/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
