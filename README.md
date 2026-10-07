@@ -41,6 +41,7 @@
 | [0238-product-of-array-except-self](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0454-4sum-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
@@ -143,6 +144,7 @@
 | [0169-majority-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
 | [0645-set-mismatch](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0645-set-mismatch) |
@@ -203,6 +205,7 @@
 | [0217-contains-duplicate](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0299-bulls-and-cows/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0454-4sum-ii/) | Medium |
@@ -240,6 +243,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0299-bulls-and-cows/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1635-number-of-good-pairs](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/1635-number-of-good-pairs) |
@@ -449,6 +453,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,12 +465,14 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0743-network-delay-time/) | Medium |
 | [1046-last-stone-weight](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 ## Tree
 | Problem Name | Difficulty |
@@ -606,4 +613,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
