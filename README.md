@@ -124,6 +124,7 @@
 | [0283-move-zeroes](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0455-assign-cookies/) | Easy |
 | [0647-palindromic-substrings](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -288,6 +289,7 @@
 | [0344-reverse-string](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0443-string-compression](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0521-longest-uncommon-subsequence-i](https://github.com/bhavishyaverma450/Leet_code_dpp-s/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
