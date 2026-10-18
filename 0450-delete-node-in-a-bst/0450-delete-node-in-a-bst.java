@@ -22,9 +22,11 @@ class Solution {
             if(root.left==null && root.right==null)return null;
             else if(root.left!=null && root.right==null)return root.left;
             else if(root.left==null && root.right!=null)return root.right;
-            TreeNode curr=findMax(root.left);
-            root.val=curr.val;
-            root.left=deleteNode(root.left,curr.val);
+            else{
+                TreeNode curr=findMax(root.left);
+                root.val=curr.val;
+                root.left=deleteNode(root.left,curr.val);
+            }
         }
         return root;
     }
